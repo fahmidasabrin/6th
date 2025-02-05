@@ -11,7 +11,8 @@ body {
     font-family: verdana;
     font-size: 20px;
   }
-  
+
   img {
-    style="width: 100px;height: 100px;"
+    weight: 100px;
+    height: 100px;
   }
