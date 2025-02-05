@@ -1,0 +1,41 @@
+h1{
+    color: #02085cf8;
+}
+p{
+    color:darkmagenta;
+    font-size: 20px;
+   
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{ 
+    width: 100px;
+    height: 100px;
+} 
+#bangladash{
+    color: thistle;
+}
+.friend{
+    background-color: darkslateblue;
+    width: 300px ;
+
+}
+#birthday{
+    font: size 5px;
+    color: darkmagenta;
+}
+.box{
+    width: 300px;
+    height: 580px;
+    border: 8px solid red
+  }
+.containar {
+    width: 300px;
+    height: 350px;
+    border: 8px solid red
+    
+}
+  img {
+    width: 200px;
+    height: 200px;
+  }
